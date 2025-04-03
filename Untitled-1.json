@@ -1,7 +1,7 @@
 [
   {
     "$id": "DPS_Test",
-    "$image_link": "https://d3k81ch9hvuctc.cloudfront.net/company/U5Bxb5/images/23bffc8f-074e-4c9d-bbe5-d05fb4f12112.png",
+    "$image_link": "https://d3k81ch9hvuctc.cloudfront.net/company/U5Bxb5/images/550b9762-3c7b-4c6e-be72-fa332a07471c.png",
     "$title": "Bali",
     "$description": "Bali",
     "$link": "https://www.paylatertravel.com.au/"
@@ -23,7 +23,7 @@
   {
     "$id": "SYD_Test",
     "$image_link": "https://d3k81ch9hvuctc.cloudfront.net/company/U5Bxb5/images/550b9762-3c7b-4c6e-be72-fa332a07471c.png",
-    "$title": "Sydney",
+    "$title": "Sydney1",
     "$description": "Sydney",
     "$link": "https://www.paylatertravel.com.au/"
   }
